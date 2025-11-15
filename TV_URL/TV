@@ -5,9 +5,9 @@ CCTV-3综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227067/index
 CCTV-4中文国际,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-5体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227070/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227110/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227073/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+CCTV-6电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227073/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 CCTV-7国防军事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227093/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV-8电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227093/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 CCTV-9纪录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
@@ -30,10 +30,8 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/i
 CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV高尔夫·网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CCTV4K超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
 
 卫视频道,#genre#
-北京卫视4k超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227112/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
@@ -152,3 +150,7 @@ CGTN法语,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227058/index.m
 未知频道6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227116/index.m3u8
 未知频道7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227119/index.m3u8
 未知频道8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227122/index.m3u8
+
+4K频道,#genre#
+CCTV4K超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227140/index.m3u8
+北京卫视4k超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227112/index.m3u8
